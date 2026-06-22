@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1778577240 source:e:\studentmanagement\main.cpp
+	<vector>
+	<fstream>
+	<string>
+	<limits>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<limits>
+	<sstream>
+
